@@ -3,6 +3,14 @@ package ie.gmit.single;
 import java.util.HashMap;
 import java.util.Map;
 
+/*
+Stephen McIntyre
+G00325469
+Design Principles Lab
+
+ */
+
+
 //Stores data in memory
 public class Store {
 

@@ -1,3 +1,10 @@
+/*
+Stephen McIntyre
+G00325469
+Design Principles Lab
+
+ */
+
 package ie.gmit.open;
 
 import java.time.LocalDateTime;

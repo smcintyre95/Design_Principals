@@ -1,5 +1,12 @@
 package ie.gmit.single;
 
+/*
+Stephen McIntyre
+G00325469
+Design Principles Lab
+
+ */
+
 //User
 public class User {
 
